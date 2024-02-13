@@ -19,7 +19,7 @@ bin/
 
 ### IntelliJ IDEA ###
 application.properties
-
+bgmbank/src/main/java/com/bgmbank/bgmbank/constants/JwtConstants.java
 .idea
 *.iws
 *.iml
